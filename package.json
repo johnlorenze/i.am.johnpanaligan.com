@@ -1,0 +1,29 @@
+{
+  "name": "i.am.johnpanaligan.com",
+  "version": "1.0.0",
+  "description": "Personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpanaligan/i.am.johnpanaligan.com.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "John Panaligan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnpanaligan/i.am.johnpanaligan.com/issues"
+  },
+  "homepage": "https://github.com/johnpanaligan/i.am.johnpanaligan.com#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
